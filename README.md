@@ -6,4 +6,4 @@ DHT11 Sensor,
 Arduino IDE, 
 Google sheet, 
 App script, 
-Google Collab
+Google Collab.
