@@ -4,7 +4,6 @@
 // Replace with your network credentials
 const char* ssid = "Amit Main Phone";
 const char* password = "987654321";
-
 // Google Sheets script URL
 const char* scriptURL = "https://script.google.com/macros/s/AKfycbyoAyUcZIjX1xclexhEAlwsDQpy3XNIyORZzfHe6kE_45LiMxWFUoNhDVBsle3iGAgcjw/exec";
 
