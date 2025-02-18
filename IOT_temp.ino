@@ -6,7 +6,6 @@ const char* ssid = "Amit Main Phone";
 const char* password = "987654321";
 // Google Sheets script URL
 const char* scriptURL = "https://script.google.com/macros/s/AKfycbyoAyUcZIjX1xclexhEAlwsDQpy3XNIyORZzfHe6kE_45LiMxWFUoNhDVBsle3iGAgcjw/exec";
-
 // DHT sensor settings
 #define DHTPIN 4  // GPIO pin where the DHT11 is connected
 #define DHTTYPE DHT11
