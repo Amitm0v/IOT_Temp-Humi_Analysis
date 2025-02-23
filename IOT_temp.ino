@@ -10,7 +10,6 @@ const char* scriptURL = "https://script.google.com/macros/s/AKfycbyoAyUcZIjX1xcl
 #define DHTPIN 4  // GPIO pin where the DHT11 is connected
 #define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE);
-
 void setup() {
   Serial.begin(115200);
   WiFi.begin(ssid, password);
