@@ -21,7 +21,6 @@ void setup() {
   Serial.println("\nConnected to WiFi");
   dht.begin();
 }
-
 void loop() {
   if (WiFi.status() == WL_CONNECTED) {
     HTTPClient http;
