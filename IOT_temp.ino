@@ -1,6 +1,7 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <DHT.h>
+
 // Replace with your network credentials
 const char* ssid = "Amit Main Phone";
 const char* password = "987654321";
