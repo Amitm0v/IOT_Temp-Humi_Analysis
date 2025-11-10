@@ -2,6 +2,7 @@
 #include <HTTPClient.h>
 #include <DHT.h>
 
+
 // Replace with your network credentials
 
 const char* ssid = "Amit Main Phone";
@@ -58,3 +59,4 @@ void loop() {
 
   delay(5000);  
 }
+
